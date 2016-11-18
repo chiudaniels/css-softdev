@@ -1,0 +1,21 @@
+body{
+    background-color: orange;
+    text-allign:center;
+    text-color:blue;
+}
+
+h1{
+    font-size:10em;
+}
+
+h3{
+    font-size: 3em;
+}
+
+ul{
+    font-weight:bold;
+}
+
+h2{
+    text-color:red;
+}

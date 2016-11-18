@@ -1,0 +1,9 @@
+#textbox{
+	padding: 25px 25px 25px 25px;
+}
+
+#textbox:hover{
+	oppacity:1;
+	color: blue;
+	overflow: active;
+}
